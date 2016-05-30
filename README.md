@@ -1,0 +1,4 @@
+webservice---xfire
+使用xfire进行webservice服务的发布和调用
+其中xfireDemo为服务发布端以及客户端进行内部调用
+xfireClient项目为外部客户端调用
