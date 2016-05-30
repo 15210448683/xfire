@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://xfire.codehaus.org/config/1.0">
+  <service>
+    <name>MathService</name>
+    <namespace>http://com.moon.xfire.service/MathService</namespace>
+    <serviceClass>com.moon.xfire.service.MathService</serviceClass>
+    <implementationClass>com.moon.xfire.serviceImpl.MathServiceImpl</implementationClass>
+  </service>
+</beans>
